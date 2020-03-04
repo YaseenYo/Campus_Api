@@ -1,0 +1,16 @@
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.csprojAssemblyReference.cache
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.RazorAssemblyInfo.cache
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.RazorAssemblyInfo.cs
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.AssemblyInfoInputs.cache
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.AssemblyInfo.cs
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Campus_API.deps.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Campus_API.runtimeconfig.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Campus_API.runtimeconfig.dev.json
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Campus_API.dll
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\bin\Debug\netcoreapp2.2\Campus_API.pdb
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.RazorTargetAssemblyInfo.cache
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.dll
+C:\Users\Yaseen\source\repos\Campus_API\Campus_API\obj\Debug\netcoreapp2.2\Campus_API.pdb
